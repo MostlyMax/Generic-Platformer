@@ -1,0 +1,23 @@
+Welcome to a generic platformer! The idea behind this project is to have a platformer where adding new levels
+is extremely simple.
+
+Here is a guide to get started:
+
+1. Go to: https://sketch.io/sketchpad/
+2. Click on crop
+3. Set width to 800, height to 600, make sure to click apply!
+4. Draw! (it’s the feather icon)
+5. Tips: Try to set pixel size bigger than 3, draw using line tool, find a better drawing program, player always spawns
+at (20,20) from top left
+6. After saving, rename it level(#).png and add to res folder
+
+Colors:
+Black: #000000 - generic solid thing
+Red: #ff0000 - die (bad)
+Orange: #ffc800 - bounce pad
+Yellow: #ffff00 -
+Green: #00ff00 - next level (good)
+Blue: #0000ff - slippery floor (slide)
+Cyan: #00ffff - unflip
+Pink: #ffafaf -
+Magenta: #ff00ff - flip
